@@ -1,0 +1,3 @@
+Ahmet,Yılmaz,56,45
+Ahmet,Keser,77,66
+Aylin,Karaca,88,80
